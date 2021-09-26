@@ -1,0 +1,22 @@
+.row {
+        
+        background-color: rgb(236, 204, 204);
+        padding: 15px;
+    }
+   .box{
+       border-radius: 3px;
+   } 
+.box{
+    width: auto;
+    border-radius: 5px;
+    background-color: bisque;
+}
+.table{
+    width: 800px;
+}
+#view{
+  float: right;
+  position: relative;
+    
+}
+
