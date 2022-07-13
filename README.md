@@ -1,2 +1,2 @@
 # CRUD-OOP
-i love it,it is more than a crude
+i love it,it is more than a crud
